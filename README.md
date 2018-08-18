@@ -1,5 +1,9 @@
 # Pose Partition Networks for Multi-Person Pose Estimation
 
+> **[Learning Feature Pyramids for Human Pose Estimation](https://arxiv.org/abs/1708.01101)**  
+> Wei Yang, Shuang Li, Wanli Ouyang, Hongsheng Li, Xiaogang Wang  
+> ICCV, 2017 
+
 This repository contains the code and pretrained models of
 > **Pose Partition Networks for Multi-Person Pose Estimation**
 > **Xuecheng Nie**, Jiashi Feng, Junliang Xing, and Shuicheng Yan
