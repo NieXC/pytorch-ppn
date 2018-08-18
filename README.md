@@ -1,10 +1,9 @@
 # Pose Partition Networks for Multi-Person Pose Estimation
 
 This repository contains the code and pretrained models of
-> **Pose Partition Networks for Multi-Person Pose Estimation**  
+> **Pose Partition Networks for Multi-Person Pose Estimation** [[ArXiv](https://arxiv.org/abs/1705.07422)]   
 > **Xuecheng Nie**, Jiashi Feng, Junliang Xing, and Shuicheng Yan  
 > European Conference on Computer Vision (ECCV), 2018  
-> [[ArXiv](https://arxiv.org/abs/1705.07422)]   
 
 ## Prerequisites
 
