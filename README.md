@@ -75,11 +75,11 @@ Some configurable hyperparameters in testing phase:
 - `--visualization` visualize evaluation or not
 - `--vis-dir` directory for saving the visualization results
 
-Pretrained model and validation accuracy with this code:
+[//]: # (Pretrained model and validation accuracy with this code:)
 
-| Method | Head | Shoulder | Elbow | Wrist | Hip | Knee | Ankle | Avg. | Pretrained Model |
-|--------|------|----------|-------|-------|-----|------|-------|------|------------------|
-|  PPN   |      |          |       |       |     |      |       |      |   [GoogleDrive]  |
+[//]: # (| Method | Head | Shoulder | Elbow | Wrist | Hip | Knee | Ankle | Avg. | Pretrained Model |)
+[//]: # (|--------|------|----------|-------|-------|-----|------|-------|------|------------------|)
+[//]: # (|  PPN   |      |          |       |       |     |      |       |      |   [GoogleDrive]  |)
 
 *The [Single-Person pose estimation model](https://github.com/NieXC/pytorch-pil) to refine Multi-Person pose estimation results will be released soon.
 
