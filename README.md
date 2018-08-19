@@ -16,7 +16,7 @@ This repository contains the code and pretrained models of
 1. Install Pytorch: Please follow the [official instruction](https://pytorch.org/) on installation of Pytorch.
 2. Clone the repository   
    ```
-   git clone --recursive 
+   git clone --recursive https://github.com/NieXC/pytorch-ppn.git
    ``` 
 3. Download [MPII Multi-Person Human Pose](http://human-pose.mpi-inf.mpg.de/) dataset and create a symbolic link to the `images` directory   
    ```
