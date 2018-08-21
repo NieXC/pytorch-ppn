@@ -45,7 +45,7 @@ A script to supervise validation accuracy during the training process:
 python utils/plot_map_curve.py
 ```
 
-Some configurable hyperparameters in training phase:
+Some configurable parameters in training phase:
 
 - `-b` mini-batch size   
 - `--lr` initial learning rate
@@ -74,7 +74,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py --evaluate True --resume exps/snapshots/pp
 
 In particular, results will be saved as a `.mat` file followed the official evaluation format of MPII Multi-Person Human Pose. An example is provided in `exps/preds/mat_results/pred_keypoints_mpii_multi.mat`.
 
-Some configurable hyperparameters in testing phase:
+Some configurable parameters in testing phase:
 
 - `--evaluate` True for testing and false for training
 - `--resume` path to the model for evaluation
