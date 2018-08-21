@@ -72,13 +72,13 @@ Run the following command to evaluate PPN on MPII `testing set`:
 CUDA_VISIBLE_DEVICES=0 python main.py --evaluate True --resume exps/snapshots/ppn_best.pth.tar --eval-anno dataset/mpi/jsons/MPI_MP_TEST_annotations.json
 ```
 
-In particular, results will be saved as a `.mat` file followed the official evaluation format of MPII Multi-Person Human Pose.
+In particular, results will be saved as a `.mat` file followed the official evaluation format of MPII Multi-Person Human Pose. An example is provided in `exps/preds/mat_results/pred_keypoints_mpii_multi.mat`.
 
 Some configurable hyperparameters in testing phase:
 
 - `--evaluate` True for testing and false for training
 - `--resume` path to the model for evaluation
-- `--pred-path` path to the mat file for saving the evaluation results (in the folder `exps/preds/mat_results` by default)
+- `--pred-path` path to the mat file for saving the evaluation results
 - `--visualization` visualize evaluation or not
 - `--vis-dir` directory for saving the visualization results
 
