@@ -50,6 +50,8 @@ Some configurable hyperparameters in training phase:
 - `-j` number of workers for loading data
 - `--print-freq` print frequency
 
+*Training log `ppn.log` is uploaded to the folder `exps/logs` for the reference.
+
 ### Testing
 Run the following command to evaluate PPN on MPII `validation set`:
 ```
@@ -75,7 +77,7 @@ Some configurable hyperparameters in testing phase:
 - `--visualization` visualize evaluation or not
 - `--vis-dir` directory for saving the visualization results
 
-Pretrained model and validation accuracy (measured by mAP) with this code:
+Pretrained model and validation accuracy (measured by `mAP`) with this code:
 
 | Method | Head | Shoulder | Elbow | Wrist | Hip | Knee | Ankle | Avg. | Pretrained Model |
 |:------:|:----:|:--------:|:-----:|:-----:|:---:|:----:|:-----:|:----:|:----------------:|
