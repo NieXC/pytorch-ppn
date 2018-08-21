@@ -82,7 +82,7 @@ Some configurable hyperparameters in testing phase:
 - `--visualization` visualize evaluation or not
 - `--vis-dir` directory for saving the visualization results
 
-Pretrained model and validation accuracy (measured by `mAP`) with this code:
+The pretrained model and corresponding performance (measured by `mAP`) on MPII validation set with this code:
 
 | Method | Head | Shoulder | Elbow | Wrist | Hip | Knee | Ankle | Avg. | Pretrained Model |
 |:------:|:----:|:--------:|:-----:|:-----:|:---:|:----:|:-----:|:----:|:----------------:|
