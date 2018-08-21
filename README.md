@@ -40,6 +40,11 @@ A simple way to record the training log by adding the following command:
 2>&1 | tee exps/logs/ppn.log
 ```
 
+A script to supervise validation accuracy during the training process:
+```
+python utils/plot_map_curve.py
+```
+
 Some configurable hyperparameters in training phase:
 
 - `-b` mini-batch size   
