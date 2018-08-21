@@ -79,7 +79,7 @@ Pretrained model and validation accuracy (measured by mAP) with this code:
 
 | Method | Head | Shoulder | Elbow | Wrist | Hip | Knee | Ankle | Avg. | Pretrained Model |
 |:------:|:----:|:--------:|:-----:|:-----:|:---:|:----:|:-----:|:----:|:----------------:|
-| PPN    | 94.0 | 90.9     | 81.2  | 74.1  | 77.1| 73.4 | 67.5  | 79.7 | [GoogleDrive] (https://drive.google.com/file/d/15T344y19zsmvkYMpo8NTBfYFvWaspQI7/view?usp=sharing) |
+| PPN    | 94.0 | 90.9     | 81.2  | 74.1  | 77.1| 73.4 | 67.5  | 79.7 | [GoogleDrive](https://drive.google.com/file/d/15T344y19zsmvkYMpo8NTBfYFvWaspQI7/view?usp=sharing)  |
 
 *The [Single-Person pose estimation model](https://github.com/NieXC/pytorch-pil) to refine Multi-Person pose estimation results will be released soon.
 
