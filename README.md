@@ -78,7 +78,7 @@ Some configurable hyperparameters in testing phase:
 
 - `--evaluate` True for testing and false for training
 - `--resume` path to the model for evaluation
-- `--pred-path` path to the mat file for saving the evaluation results
+- `--pred-path` path to the mat file for saving the evaluation results (in the folder `exps/preds/mat_results` by default)
 - `--visualization` visualize evaluation or not
 - `--vis-dir` directory for saving the visualization results
 
