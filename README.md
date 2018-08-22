@@ -64,7 +64,7 @@ sh run_test.sh
 ```
 or 
 ```
-CUDA_VISIBLE_DEVICES=0 python main.py --evaluate True --resume exps/snapshots/ppn_best.pth.tar
+CUDA_VISIBLE_DEVICES=0 python main.py --evaluate True --calc-map True --resume exps/snapshots/ppn_best.pth.tar
 ```
 
 Run the following command to evaluate PPN on MPII `testing set`:
