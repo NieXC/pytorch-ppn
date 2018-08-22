@@ -78,6 +78,7 @@ Some configurable parameters in testing phase:
 
 - `--evaluate` True for testing and false for training
 - `--resume` path to the model for evaluation
+- `--calc-map` calculate mAP or not
 - `--pred-path` path to the mat file for saving the evaluation results
 - `--visualization` visualize evaluation or not
 - `--vis-dir` directory for saving the visualization results
