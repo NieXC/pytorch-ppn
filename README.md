@@ -93,7 +93,7 @@ The pretrained model and its performance (measured by `mAP`) on MPII validation 
 
 ## Citation
 
-If you use our code/model in your work or find it is helpful, please cite the paper:
+If you use our code/model in your work or find it helpful, please cite the paper:
 ```
 @inproceedings{nie2018ppn,
   title={Pose Partition Networks for Multi-Person Pose Estimation},
